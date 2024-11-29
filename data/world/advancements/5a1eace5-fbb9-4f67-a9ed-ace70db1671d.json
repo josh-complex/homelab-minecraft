@@ -1,0 +1,32 @@
+{
+  "nuclearcraft:root": {
+    "criteria": {
+      "location": "2024-11-29 04:12:01 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2024-11-29 04:12:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-11-29 04:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "extreme_hills_with_trees": "2024-11-29 04:18:11 +0000",
+      "plains": "2024-11-29 04:12:01 +0000",
+      "taiga": "2024-11-29 04:16:06 +0000",
+      "extreme_hills": "2024-11-29 04:16:29 +0000",
+      "roofed_forest": "2024-11-29 04:14:18 +0000",
+      "river": "2024-11-29 04:18:14 +0000",
+      "desert": "2024-11-29 04:18:13 +0000"
+    },
+    "done": false
+  }
+}

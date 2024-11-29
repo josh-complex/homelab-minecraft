@@ -1,0 +1,1 @@
+{"display":{"icon":{"item":"rftoolsbase:infused_enderpearl"},"title":"End Unlocked!","description":"Obtain a item.rftoolsbase.infused_enderpearl"},"parent":"restrictedportals:root","criteria":{"end":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["rftoolsbase:infused_enderpearl"]}]}}},"requirements":[["end"]]}
