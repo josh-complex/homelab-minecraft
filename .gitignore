@@ -1,1 +1,6 @@
+.env
+
+prometheus.yml
+
 ./data
+./grafana
