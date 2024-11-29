@@ -1,1 +1,0 @@
-{"display":{"icon":{"item":"the_bumblezone:essence_of_the_bees"},"title":"Overworld Unlocked!","description":"Obtain a item.the_bumblezone.essence_of_the_bees"},"parent":"restrictedportals:root","criteria":{"overworld":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["the_bumblezone:essence_of_the_bees"]}]}}},"requirements":[["overworld"]]}
