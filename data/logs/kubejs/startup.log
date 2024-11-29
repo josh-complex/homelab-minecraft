@@ -1,0 +1,120 @@
+[03:21:49] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
+[03:21:49] [INIT] Loaded plugins:
+[03:21:49] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[03:21:49] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[03:21:49] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[03:21:49] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[03:21:49] [INIT] - com.almostreliable.morejs.Plugin
+[03:21:49] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[03:21:49] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
+[03:21:49] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[03:21:49] [INIT] - com.github.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[03:21:50] [INFO] Loaded script startup_scripts:packmode.js in 0.177 s
+[03:21:50] [INFO] Loaded script startup_scripts:block_registry.js in 0.022 s
+[03:21:50] [INFO] Loaded script startup_scripts:fluid_registry.js in 0.002 s
+[03:21:50] [INFO] Loaded script startup_scripts:item_registry.js in 0.004 s
+[03:21:51] [INFO] Loaded script startup_scripts:structure_modifications.js in 0.512 s
+[03:21:51] [INFO] Loaded script startup_scripts:base/brewing_remove.js in 0.002 s
+[03:21:51] [INFO] Loaded script startup_scripts:expert/brewing_remove.js in 0.0 s
+[03:21:51] [INFO] potion_registry.js#2: Loaded Java class 'dev.latvian.mods.kubejs.misc.PotionBuilder'
+[03:21:51] [INFO] Loaded script startup_scripts:potion_registry.js in 0.009 s
+[03:21:51] [INFO] Loaded script startup_scripts:base/brewing_registry.js in 0.002 s
+[03:21:51] [INFO] Loaded script startup_scripts:base/property_modification/item/thermal/sawdust_block.js in 0.001 s
+[03:21:51] [INFO] Loaded script startup_scripts:base/worldgen/blue_skies/remove.js in 0.0 s
+[03:21:51] [INFO] Loaded script startup_scripts:base/worldgen/byg/remove.js in 0.001 s
+[03:21:51] [INFO] Loaded script startup_scripts:base/worldgen/enigmatica/add_spawn.js in 0.002 s
+[03:21:51] [INFO] Loaded script startup_scripts:base/worldgen/hexerei/remove.js in 0.0 s
+[03:21:51] [INFO] Loaded script startup_scripts:base/worldgen/minecraft/remove.js in 0.0 s
+[03:21:51] [INFO] Loaded script startup_scripts:base/worldgen/occultism/remove.js in 0.0 s
+[03:21:51] [INFO] Loaded script startup_scripts:base/worldgen/rftoolsbase/remove.js in 0.0 s
+[03:21:51] [INFO] Loaded script startup_scripts:base/worldgen/thermal/remove.js in 0.001 s
+[03:21:51] [INFO] Loaded script startup_scripts:better_stacks.js in 0.012 s
+[03:21:51] [INFO] Loaded script startup_scripts:expert/no_portals.js in 0.004 s
+[03:21:51] [INFO] Loaded script startup_scripts:expert/worldgen/blue_skies/remove.js in 0.0 s
+[03:21:51] [INFO] Loaded 21/21 KubeJS startup scripts in 1.45 s
+[03:22:13] [INFO] base/brewing_remove.js#13: Removed potion brewing recipe: apotheosis:knowledge + {"item":"minecraft:experience_bottle"} -> apotheosis:strong_knowledge
+[03:22:13] [INFO] expert/brewing_remove.js#16: Removed potion brewing recipe: minecraft:water + {"item":"minecraft:nether_wart"} -> minecraft:awkward
+[03:22:13] [INFO] expert/brewing_remove.js#17: Removed potion brewing recipe: minecraft:awkward + {"item":"minecraft:shulker_shell"} -> apotheosis:resistance
+[03:22:13] [INFO] expert/brewing_remove.js#18: Removed potion brewing recipe: minecraft:awkward + [] -> quark:resilience
+[03:22:13] [INFO] expert/brewing_remove.js#18: Removed potion brewing recipe: minecraft:water + [] -> minecraft:mundane
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:awkward. Reagent: ars_nouveau:abjuration_essence, Input Potion: minecraft:water
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:awkward. Reagent: pneumaticcraft:glycerol, Input Potion: minecraft:water
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:night_vision. Reagent: twilightforest:torchberries, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:night_vision. Reagent: byg:nightshade_berries, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:wither. Reagent: ars_elemental:anima_essence, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:fire_resistance. Reagent: thermal:frost_melon_slice, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:fire_resistance. Reagent: byg:crimson_berries, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:fire_resistance. Reagent: sushigocrafting:wasabi_root, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:regeneration. Reagent: byg:aloe_vera, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:haste. Reagent: thermal:coffee, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:healing. Reagent: cnb:pink_waterlily, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:healing. Reagent: cnb:light_pink_waterlily, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:healing. Reagent: cnb:yellow_waterlily, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:poison. Reagent: hexerei:belladonna_berries, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:swiftness. Reagent: minecraft:cocoa_beans, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:harming. Reagent: byg:death_cap, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:knowledge. Reagent: ars_nouveau:experience_gem, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:knowledge. Reagent: quark:ancient_fruit, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:strong_knowledge. Reagent: ars_nouveau:greater_experience_gem, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:invisibility. Reagent: byg:ether_bulbs, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:fatigue. Reagent: hexerei:mandrake_root, Input Potion: apotheosis:haste
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:weakness. Reagent: hexerei:mandrake_root, Input Potion: minecraft:water
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:harming. Reagent: hexerei:mandrake_root, Input Potion: minecraft:poison
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:harming. Reagent: hexerei:mandrake_root, Input Potion: minecraft:long_poison
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:strong_harming. Reagent: hexerei:mandrake_root, Input Potion: minecraft:strong_poison
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:invisibility. Reagent: hexerei:mandrake_root, Input Potion: minecraft:night_vision
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:long_invisibility. Reagent: hexerei:mandrake_root, Input Potion: minecraft:long_night_vision
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:slowness. Reagent: hexerei:mandrake_root, Input Potion: minecraft:leaping
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:long_slowness. Reagent: hexerei:mandrake_root, Input Potion: minecraft:long_leaping
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:strong_slowness. Reagent: hexerei:mandrake_root, Input Potion: minecraft:strong_leaping
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:slowness. Reagent: hexerei:mandrake_root, Input Potion: minecraft:swiftness
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:long_slowness. Reagent: hexerei:mandrake_root, Input Potion: minecraft:long_swiftness
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:strong_slowness. Reagent: hexerei:mandrake_root, Input Potion: minecraft:strong_swiftness
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:harming. Reagent: hexerei:mandrake_root, Input Potion: minecraft:healing
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:strong_harming. Reagent: hexerei:mandrake_root, Input Potion: minecraft:strong_healing
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:sundering. Reagent: hexerei:mandrake_root, Input Potion: apotheosis:resistance
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:long_sundering. Reagent: hexerei:mandrake_root, Input Potion: apotheosis:long_resistance
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:strong_sundering. Reagent: hexerei:mandrake_root, Input Potion: apotheosis:strong_resistance
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:fatigue. Reagent: hexerei:mandrake_root, Input Potion: apotheosis:haste
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:long_fatigue. Reagent: hexerei:mandrake_root, Input Potion: apotheosis:long_haste
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:strong_fatigue. Reagent: hexerei:mandrake_root, Input Potion: apotheosis:strong_haste
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:grievous. Reagent: hexerei:mandrake_root, Input Potion: apotheosis:vitality
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:long_grievous. Reagent: hexerei:mandrake_root, Input Potion: apotheosis:long_vitality
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:strong_grievous. Reagent: hexerei:mandrake_root, Input Potion: apotheosis:strong_vitality
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:strong_grievous. Reagent: hexerei:dried_mugwort_flowers, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:slowness. Reagent: hexerei:dried_mandrake_flowers, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:resistance. Reagent: thermal:spinach_block, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:leaping. Reagent: thermal:slime_mushroom_spores, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:luck. Reagent: byg:japanese_orchid, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:luck. Reagent: minecraft:peony, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:slow_falling. Reagent: thermal:amaranth, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for quark:resilience. Reagent: thermal:sadiroot, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:water_breathing. Reagent: hexerei:dried_belladonna_flowers, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:strength. Reagent: hexerei:dried_yellow_dock_flowers, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:invisibility. Reagent: hexerei:dried_sage, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for minecraft:healing. Reagent: minecraft:honeycomb, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for apotheosis:strong_knowledge. Reagent: minecraft:glowstone_dust, Input Potion: apotheosis:knowledge
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:flight. Reagent: hexerei:broom_brush, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:long_flight. Reagent: minecraft:redstone, Input Potion: kubejs:flight
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:true_invisibility. Reagent: ae2:certus_quartz_dust, Input Potion: minecraft:invisibility
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:long_true_invisibility. Reagent: ae2:certus_quartz_dust, Input Potion: minecraft:long_invisibility
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:long_true_invisibility. Reagent: minecraft:redstone, Input Potion: kubejs:true_invisibility
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:greater_strength. Reagent: ae2:certus_quartz_dust, Input Potion: minecraft:strong_strength
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:greater_jump_boost. Reagent: ae2:certus_quartz_dust, Input Potion: minecraft:strong_leaping
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:greater_speed. Reagent: ae2:certus_quartz_dust, Input Potion: minecraft:strong_swiftness
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:greater_instant_damage. Reagent: ae2:certus_quartz_dust, Input Potion: minecraft:strong_harming
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:greater_regeneration. Reagent: ae2:certus_quartz_dust, Input Potion: minecraft:strong_regeneration
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:greater_haste. Reagent: ae2:certus_quartz_dust, Input Potion: apotheosis:strong_haste
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:greater_knowledge. Reagent: ae2:certus_quartz_dust, Input Potion: apotheosis:strong_knowledge
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:greater_mana_regen. Reagent: ae2:certus_quartz_dust, Input Potion: ars_nouveau:mana_regen_potion_strong
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:greater_spell_damage. Reagent: ae2:certus_quartz_dust, Input Potion: ars_nouveau:spell_damage_potion_strong
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:greater_shielding. Reagent: ae2:certus_quartz_dust, Input Potion: ars_nouveau:shielding_potion_strong
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:greater_recovery. Reagent: ae2:certus_quartz_dust, Input Potion: ars_nouveau:recovery_potion_strong
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:sundered. Reagent: minecraft:warped_fungus, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:long_sundered. Reagent: minecraft:redstone, Input Potion: kubejs:sundered
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:strong_sundered. Reagent: minecraft:glowstone_dust, Input Potion: kubejs:sundered
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:greater_sundered. Reagent: ae2:certus_quartz_dust, Input Potion: kubejs:strong_sundered
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:double_jump. Reagent: hexerei:dried_yellow_dock_leaves, Input Potion: minecraft:awkward
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:long_double_jump. Reagent: minecraft:redstone, Input Potion: kubejs:double_jump
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:strong_double_jump. Reagent: minecraft:glowstone_dust, Input Potion: kubejs:double_jump
+[03:22:13] [INFO] base/brewing_registry.js#414: Registering recipe for kubejs:greater_double_jump. Reagent: ae2:certus_quartz_dust, Input Potion: kubejs:strong_double_jump

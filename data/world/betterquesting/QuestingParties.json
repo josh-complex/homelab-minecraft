@@ -1,0 +1,18 @@
+{
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "5a1eace5-fbb9-4f67-a9ed-ace70db1671d",
+          "status:8": "OWNER"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "Aliyah\u0026Joshe"
+        }
+      }
+    }
+  }
+}

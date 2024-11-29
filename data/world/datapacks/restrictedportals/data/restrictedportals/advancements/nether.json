@@ -1,0 +1,1 @@
+{"display":{"icon":{"item":"kubejs:withered_soul"},"title":"Nether Unlocked!","description":"Obtain a item.kubejs.withered_soul"},"parent":"restrictedportals:root","criteria":{"nether":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["kubejs:withered_soul"]}]}}},"requirements":[["nether"]]}
