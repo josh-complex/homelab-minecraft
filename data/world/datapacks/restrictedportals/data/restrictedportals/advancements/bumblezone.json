@@ -1,1 +1,0 @@
-{"display":{"icon":{"item":"mekanism:teleporter"},"title":"Bumblezone Unlocked!","description":"Obtain a block.mekanism.teleporter"},"parent":"restrictedportals:root","criteria":{"bumblezone":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["mekanism:teleporter"]}]}}},"requirements":[["bumblezone"]]}
